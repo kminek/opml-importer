@@ -1,0 +1,7 @@
+{
+    "name": "kminek/opml-importer",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "*"
+    }
+}
