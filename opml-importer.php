@@ -165,7 +165,7 @@ if ( ! $blogrolling )
 } // end switch
 	}
 
-	function OPML_Import() {}
+	function __construct() {}
 }
 
 $opml_importer = new OPML_Import();
